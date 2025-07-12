@@ -1,5 +1,5 @@
 import java.util.*;
-public class dayF {
+public class dayfirst {
     public static void main(String[] args) {
         try (Scanner sc= new Scanner(System.in)) {
             System.out.println("enter array sizeee:-");
